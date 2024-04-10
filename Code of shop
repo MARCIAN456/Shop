@@ -8,10 +8,12 @@
 </head>
 <style>
 /* Стилі пиши тут :) */
-
+.style{
+ color: red;
+}
 </style>
 <body>
-<p>Світ пончиків</p>
+<p class = "style">Світ пончиків</p>
 <img src="/uploads/2023/02/donut.png">
 </body>
 </html>
